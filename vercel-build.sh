@@ -33,7 +33,8 @@ hugo version
 # install dependencies
 echo "Installing project dependencies..."
 npm install
+npm ls -g
 
 # run the build command
 echo "Running the build command..."
-hugo --gc
+vercel build --prod
