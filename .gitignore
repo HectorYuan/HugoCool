@@ -1,2 +1,8 @@
 # Local Netlify folder
 .netlify
+
+.vercel
+resources/_gen/assets/css/css/style-lazy.css_4aa64dfd10aad995c159f67739a2e5c7.content
+resources/_gen/assets/css/css/style-lazy.css_4aa64dfd10aad995c159f67739a2e5c7.json
+resources/_gen/assets/css/css/style.css_82b067fd6c564693170dff5ae4660239.content
+resources/_gen/assets/css/css/style.css_82b067fd6c564693170dff5ae4660239.json
