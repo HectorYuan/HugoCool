@@ -1,0 +1,64 @@
+############# Chinese navigation ##############
+
+# main menu
+[[main]]
+name = "主页"
+url = "/"
+weight = 1
+
+[[main]]
+name = "指南"
+url = "about/"
+weight = 2
+
+
+[[main]]
+weight = 3
+name = "探索"
+hasChildren = true
+
+[[main]]
+parent = "探索"
+name = "深度内容"
+url = "blog/"
+weight = 1
+
+
+[[main]]
+parent = "探索"
+name = "联系我们"
+url = "contact/"
+weight = 2
+
+[[main]]
+parent = "探索"
+name = "创作者"
+url = "authors/"
+weight = 3
+
+[[main]]
+parent = "探索"
+name = "Categories"
+url = "categories/"
+
+[[main]]
+parent = "探索"
+name = "Elements"
+url = "elements/"
+
+
+# footer menu
+[[footer]]
+name = "指南"
+url = "about/"
+weight = 1
+
+[[footer]]
+name = "Elements"
+url = "elements/"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 3

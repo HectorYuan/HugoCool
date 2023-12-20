@@ -1,7 +1,7 @@
 ---
 enable: true
-title: "Ready to build your next project with Hugo?"
-image: "/images/call-to-action.png"
+title: "迫不及待想要加入我们？"
+image: "/images/avatar-sm.png"
 description: "Experience the future of web development with Hugoplate and Hugo. Build lightning-fast static sites with ease and flexibility."
 button:
   enable: true

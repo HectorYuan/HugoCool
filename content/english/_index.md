@@ -1,51 +1,47 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
-  content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
+  title: "FutureForceDAO"
+  content: "数字时代，DAO 正在成为改变现有生产关系和工作方式的一种强大力量"
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "开始探索"
+    link: "https://jinshuju.net/f/N9PuAv"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "面向数字创意从业者"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "帮助**年轻人**从零开始发展职业技能，帮助**从业者**打造职业竞争护城河"
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
+      - "引导年轻人发现自身兴趣和潜力，选择职业发展方向"
+      - "陪伴式的职业技能培训，帮助年轻人系统成长持续学习"
+      - "帮助年轻人正确看待竞争，培养自信心和抗压能力"
+      - "持续学习，跟上行业发展步伐，形成核心竞争力"
+      - "营造企业数字文化，实现员工职业发展和企业共赢"
     button:
       enable: false
       label: "Get Started Now"
       link: "#"
 
-  - title: "Discover the Key Features Of Hugo"
+  - title: "探索未来的领航员"
     image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
+    content: "通过更符合灵活工作趋势的 DAO 组织形式，联合全网的专业用户，共创全互联网的行业指南"
     bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "**新领域**：在松散的连接朋友和朋友的群组，和严密的连接同事和同事的公司之间，存在巨大的中间领域"
+      - "**新组织**：在上述中间领域中，需要新型的组织体系，连接创作者和创作者，创作者和组织，以及组织和组织"
+      - "**新关系**：在上述组织体系中，需要新型的生产关系，协调创作者之间的合作关系，协作模式和价值分配模式"
+      - "**新创造**：专业用户将成为自己品牌和产品的所有人，也将迸发出更大的力量，驱动全中国乃至全世界的数字化转型式"
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "申请加入"
+      link: "https://jinshuju.net/f/N9PuAv"
 
-  - title: "The Top Reasons to Choose Hugo for Your Hugo Project"
+  - title: "未来原力漫游指南"
     image: "/images/service-3.png"
-    content: "With Hugo, you can build modern and content-focused websites without sacrificing performance or ease of use."
-    bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+    content: "FutureForce DAO 结合了星际探险队(探索未知)和 DAO 体系(持续运行)的组织架构设计，最终构建了基于指南共创的社区体系，帮助数字从业者建立和发展专业身份和专业技能"
+
     button:
       enable: false
       label: ""
