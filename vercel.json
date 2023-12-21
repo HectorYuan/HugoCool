@@ -1,11 +1,18 @@
 {
+  "framework": "hugo",
+  "installCommand": "npm install",
+  "devCommand": null,
+  "buildCommand": "hugo --gc",
+  "outputDirectory": "public",
   "builds": [
-    {
-      "src": "vercel-build.sh",
-      "use": "@vercel/static-build",
-      "config": {
-        "distDir": "public"
-      }
+    { "src": "public/**", "use": "@vercel/static" },
+    { 
+      "src": "package.json",
+      "use": "@vercel/node"
     }
-  ]
+  ],
+  "env": {
+    "HUGO_VERSION": "0.118.2",
+    "GO_VERSION": "1.20.5"
+  }
 }
